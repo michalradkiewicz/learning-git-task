@@ -7,6 +7,6 @@ for i in zakupy_lista:
     print(druk)
    
   
-list = [1, 2, "nożyce", "szczypce", "grabki"]
+list = ["monty", "python", 22, 33, "ok"]
 for i in list:
   print(i)
