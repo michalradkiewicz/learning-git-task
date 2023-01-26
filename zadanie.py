@@ -10,3 +10,7 @@ for i in zakupy_lista:
 list = ["monty", "python", 22, 33, "ok"]
 for i in list:
   print(i)
+
+  
+text = ("Witaj Mentorze!")
+print(text)
