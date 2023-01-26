@@ -6,4 +6,7 @@ for i in zakupy_lista:
     druk = f'Idę do sklepu {i.capitalize()} i kupuję tu następujące rzeczy:{rzeczy}'
     print(druk)
    
-  list = [1, 2, "nożyce", "szczypce", "grabki"]
+  
+list = [1, 2, "nożyce", "szczypce", "grabki"]
+for i in list:
+  print(i)
